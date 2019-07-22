@@ -61,9 +61,11 @@ Step 4: calculate xp-EHH between populations of interest
 
 `Rscript res_to_xpehh.R pop1.res pop2.res`
 
+---
 
+# Extract and Edit VEP data
 
-
+`vep_edit.pl filtered_VEP_Data.txt`
 
 
 
