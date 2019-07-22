@@ -16,3 +16,12 @@ A perl script was used to extract the relevant data from the GTeX files.
 This file would need to be edited with the location of the output from the previous step
 
 `GTEx_edit.pl input_annotation_file id_names`
+
+---
+
+# Extract Haploreg data
+
+Script to extract the important information from filtered haploreg data
+
+`haploreg_edit.pl edited_haploreg_results.txt`
+
